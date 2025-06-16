@@ -1,0 +1,11 @@
+{
+    "github.copilot.chat.followUps": "always",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.nextEditSuggestions.fixes": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.advanced": {
+        "prompt": {
+            "language": "zh-Hant"
+        }
+    }
+}

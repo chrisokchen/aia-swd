@@ -9,3 +9,11 @@
 6. [幫手養成- 自訂指示，提示樣板，私人調教](C6.md)
 7. [日益強大的助理- Extensions, Tools, MCPs](C7.md)
 8. [Q&A- 現況與發展趨勢](C8.md)
+
+
+
+
+References:
+
+* [GitHub: snarktank / ai-dev-tasks ](https://github.com/snarktank/ai-dev-tasks)
+* [GitHub: joinvai / ai-sdlc ](https://github.com/joinvai/ai-sdlc)

@@ -1,4 +1,4 @@
-# 大綱： 	
+# TOC： 	
 
 0. [GenAI - 暖身與 Alignment](C0.md)
 1. [編寫過程- 即時補全與建議， 選取程式碼區塊的操作 (解釋/除錯/修正/審查/測試/產文件)](C1.md)
@@ -34,12 +34,9 @@
 - 2. 靈活自主控制的 Chat（Context、Models、Multi-modals、Tools、Slash Commands）
 
 ## C3: 新專案開發流程
-- 1. 需求分析
-- 2. 架構設計
-- 3. 開發流程
-- 4. 測試階段
-- 5. 部署與維護
-- 6. 文件生成（需求、設計、開發、測試、部署文件）
+- 0. [Vibe Coding 與 Claude Task Master](Vibe_TaskMaster.md)
+- 1. 精簡版的 [AI Dev Tasks](https://github.com/snarktank/ai-dev-tasks)
+- 2. 較完整的 SDLC [AI-SDLC CLI](https://github.com/joinvai/ai-sdlc/tree/main) - md 驅動的軟體開發生命週期
 
 ## C4: 舊專案維護流程
 - 1. 全案理解工具（語意檢索、專案結構、功能、邏輯）
@@ -52,3 +49,4 @@ References:
 
 * [GitHub: snarktank / ai-dev-tasks ](https://github.com/snarktank/ai-dev-tasks)
 * [GitHub: joinvai / ai-sdlc ](https://github.com/joinvai/ai-sdlc)
+* [GitHub: yasenstar / PlantUML_in_Action](https://github.com/yasenstar/PlantUML_in_Action)

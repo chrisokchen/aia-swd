@@ -12,6 +12,41 @@
 
 
 
+---
+
+# GenAI/AI Coding 與專案開發大網
+
+## C0: GenAI - 暖身與 Alignment
+- 1. ChatGPT vs GPT-4（介面程式 vs 引擎）
+- 2. 介面程式加工程式（Context、Prompt 結構、Context window、Tools/Agents/MCPs）
+- 3. RAG（檢索增強生成）
+- 4. IDE as a LLM-powered Vehicle（AI 編輯器、Copilot、AI IDEs/Extensions/Agents）
+
+## C1: 編寫過程 - 即時補全與建議
+- 1. 自動完成建議（Ghost text、替代選項、建議面板）
+- 2. 註解驅動的編碼（用註解引導 Copilot 產生程式碼）
+- 3. 選取程式碼區塊的操作（Explain、Fix、Review、Docs、Tests）
+- 4. Editor Inline Chat（即時對話、建議、分析）
+- 5. Next Edit Suggestions（根據上下文持續給出建議）
+
+## C2: IDE 裡的 Chat - 互動式對話
+- 1. 三種 Chat 模式：Ask、Edit、Agent
+- 2. 靈活自主控制的 Chat（Context、Models、Multi-modals、Tools、Slash Commands）
+
+## C3: 新專案開發流程
+- 1. 需求分析
+- 2. 架構設計
+- 3. 開發流程
+- 4. 測試階段
+- 5. 部署與維護
+- 6. 文件生成（需求、設計、開發、測試、部署文件）
+
+## C4: 舊專案維護流程
+- 1. 全案理解工具（語意檢索、專案結構、功能、邏輯）
+- 2. 異動影響分析（分析需修改的模組、功能、邏輯）
+
+
+
 
 References:
 

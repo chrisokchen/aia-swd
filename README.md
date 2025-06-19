@@ -6,15 +6,15 @@
 3. [新專案開發流程- 需求/限制條件，架構/框架，程式/測試案例，文件生成](C3.md)
 4. [舊專案維護流程- 全案理解/語意檢索，修改/測試，除錯/重構，文件更新](C4.md)
 5. [幫手養成- 自訂指示，提示樣板，私人調教](C5.md)
-6. [專案管理- 團隊協作，CM/PR/CodeReview，專案知識庫](C6.md)
-7. [日益強大的助理- Extensions, Tools, MCPs](C7.md)
+6. [Copilot 強化術- Extensions、Tools 與 MCPs 全攻略](C6.md)
+7. [專案管理- 團隊協作，CM/PR/CodeReview，專案知識庫](C7.md)
 8. [Q&A- 現況與發展趨勢](C8.md)
 
 
 
 ---
 
-# GenAI/AI Coding 與專案開發大網
+# GenAI/AI Coding 與軟體開發 大綱
 
 ## C0: GenAI - 暖身與 Alignment
 - 1. ChatGPT vs GPT-4（介面程式 vs 引擎）
@@ -48,6 +48,9 @@
 - 2. 提示樣板（Prompt Templates）
 - 3. 指示/提示/規則 參考來源
 - 4. 實用建議
+- 5. Custom chat modes
+
+## C6: Copilot 強化術- Extensions、Tools 與 MCPs 全攻略
 
 References:
 

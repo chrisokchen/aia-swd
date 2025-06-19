@@ -1,4 +1,5 @@
 {
+    "chat.promptFiles": true,
     "github.copilot.chat.followUps": "always",
     "github.copilot.nextEditSuggestions.enabled": true,
     "github.copilot.nextEditSuggestions.fixes": true,

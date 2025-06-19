@@ -41,12 +41,11 @@
 ## C4: 舊專案維護流程
 - 1. 全案理解工具（語意檢索、專案結構、功能、邏輯）
 - 2. 異動影響分析（分析需修改的模組、功能、邏輯）
-
-
-
+- 3. 正規的專案維護做法
 
 References:
 
 * [GitHub: snarktank / ai-dev-tasks ](https://github.com/snarktank/ai-dev-tasks)
 * [GitHub: joinvai / ai-sdlc ](https://github.com/joinvai/ai-sdlc)
 * [GitHub: yasenstar / PlantUML_in_Action](https://github.com/yasenstar/PlantUML_in_Action)
+* [Udemy: 7 Days of GitHub Copilot: The GitHub Copilot Masterclass](https://www.udemy.com/course/github-copilot-for-professionals)

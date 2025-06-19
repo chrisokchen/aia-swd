@@ -6,3 +6,6 @@
   - 依 C3.md 條列新專案開發流程
   - 產生與細化 Kanban PRD 任務清單
   - commit & push 相關內容至 GitHub
+2025-06-19 於 Ex2/📅Copilotbillingchangesareeffectivetoday.eml 轉檔產生 Copilotbillingchangesareeffectivetoday.md，內容為 GitHub Copilot premium request 限額通知信件摘要。
+2025-06-19 於 C5.md 依據 https://code.visualstudio.com/docs/copilot/copilot-customization 官方說明，整理 VS Code Copilot 自訂指示與提示樣板（instructions/prompt）課程重點，條列化、結構化，適合教材。
+2025-06-19 於 C5.md 補充多個 Copilot 指示/提示/規則彙整參考來源（如 Awesome Copilot Instructions、Medium 教學、官方 sample 等），方便查找最佳實踐與範例。

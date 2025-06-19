@@ -5,8 +5,8 @@
 2. [IDE 裡的 Chat - 互動式對話](C2.md)
 3. [新專案開發流程- 需求/限制條件，架構/框架，程式/測試案例，文件生成](C3.md)
 4. [舊專案維護流程- 全案理解/語意檢索，修改/測試，除錯/重構，文件更新](C4.md)
-5. [專案管理- 團隊協作，CM/PR/CodeReview，專案知識庫](C5.md)
-6. [幫手養成- 自訂指示，提示樣板，私人調教](C6.md)
+5. [幫手養成- 自訂指示，提示樣板，私人調教](C5.md)
+6. [專案管理- 團隊協作，CM/PR/CodeReview，專案知識庫](C6.md)
 7. [日益強大的助理- Extensions, Tools, MCPs](C7.md)
 8. [Q&A- 現況與發展趨勢](C8.md)
 
@@ -43,9 +43,22 @@
 - 2. 異動影響分析（分析需修改的模組、功能、邏輯）
 - 3. 正規的專案維護做法
 
+## C5: 幫手養成- 自訂指示、提示樣板與個人化調整
+- 1. 自訂指示（Custom Instructions）
+- 2. 提示樣板（Prompt Templates）
+- 3. 指示/提示/規則 參考來源
+- 4. 實用建議
+
 References:
 
 * [GitHub: snarktank / ai-dev-tasks ](https://github.com/snarktank/ai-dev-tasks)
 * [GitHub: joinvai / ai-sdlc ](https://github.com/joinvai/ai-sdlc)
 * [GitHub: yasenstar / PlantUML_in_Action](https://github.com/yasenstar/PlantUML_in_Action)
 * [Udemy: 7 Days of GitHub Copilot: The GitHub Copilot Masterclass](https://www.udemy.com/course/github-copilot-for-professionals)
+
+
+Resources:
+
+* [GitHub Copilot 官方文檔](https://docs.github.com/en/copilot)
+* [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) MS 提供的 GitHub Copilot 教學資源
+* [使用 GitHub Copilot 加速應用程式開發](https://learn.microsoft.com/zh-tw/plans/e28efnd5e5m1rj?ocid=Build25_plan_azuremktg_developer#) 也是 MS 提供的

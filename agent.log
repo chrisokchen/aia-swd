@@ -25,3 +25,6 @@
 - 本次所有已修改或新增檔案
 內容摘要：
 - 依用戶指示同步所有異動，確保本地與遠端版本一致
+2025-06-20  已執行 git add .、git commit、git push
+- 影響檔案：C2.md、C6.md、README.md、GPT-4o-vs-4.1.md
+- 摘要：更新 C2.md、C6.md、README.md，補充 MCP 重要性與 GPT-4o/4.1 比較，並新增 GPT-4o-vs-4.1.md 文件。

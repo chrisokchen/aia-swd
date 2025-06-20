@@ -58,6 +58,10 @@
 - 5. Custom chat modes
 
 ## C6: Copilot 強化術- Extensions、Tools 與 MCPs 全攻略
+- 1. Extensions 插件（Ask mode 的 @extensions）
+- 2. Tools 工具（內部與外部）
+- 3. MCP (Model Context Protocol) - 開放標準，讓 Copilot 與外部工具和服務整合
+- 4. MCP 擴展 Copilot 能力（如何設置）
 
 References:
 

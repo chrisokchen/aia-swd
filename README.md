@@ -69,6 +69,7 @@ References:
 * [GitHub: joinvai / ai-sdlc ](https://github.com/joinvai/ai-sdlc)
 * [GitHub: yasenstar / PlantUML_in_Action](https://github.com/yasenstar/PlantUML_in_Action)
 * [Udemy: 7 Days of GitHub Copilot: The GitHub Copilot Masterclass](https://www.udemy.com/course/github-copilot-for-professionals)
+* [Udemy: GenAI And Other Software Testing Tools Every QA Should Know](https://www.udemy.com/course/testingtools/)
 
 
 Resources:

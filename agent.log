@@ -9,3 +9,14 @@
 2025-06-19 於 Ex2/📅Copilotbillingchangesareeffectivetoday.eml 轉檔產生 Copilotbillingchangesareeffectivetoday.md，內容為 GitHub Copilot premium request 限額通知信件摘要。
 2025-06-19 於 C5.md 依據 https://code.visualstudio.com/docs/copilot/copilot-customization 官方說明，整理 VS Code Copilot 自訂指示與提示樣板（instructions/prompt）課程重點，條列化、結構化，適合教材。
 2025-06-19 於 C5.md 補充多個 Copilot 指示/提示/規則彙整參考來源（如 Awesome Copilot Instructions、Medium 教學、官方 sample 等），方便查找最佳實踐與範例。
+2025-06-19  全數異動自動提交：同步所有文件與程式碼至 GitHub。
+涉及檔案：
+- .github/chatmodes/Plan.chatmode.md
+- .github/prompts/create-prd.md
+- C6.md
+- 其他已修改文件
+內容摘要：
+- 新增 chatmode 與 prompt 範本
+- 新增 C6.md
+- README 及其他文件內容補充與修正
+- 依用戶指示同步所有異動

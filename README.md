@@ -1,3 +1,10 @@
+# AI 輔助軟體開發
+
+* 課前調查:
+  - [最習慣用哪種 IDE?](https://app.sli.do/event/gSBDUPTcSFmjjwpNsWEJfN)
+  - [對這堂課最期望能知道什麼?](https://app.sli.do/event/2vi8reg8mayKLt5G93pKGK)
+
+
 # TOC： 	
 
 0. [GenAI - 暖身與 Alignment](C0.md)

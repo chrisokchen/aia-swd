@@ -25,7 +25,7 @@
 
 ## C0: GenAI - 暖身與 Alignment
 - 1. ChatGPT vs GPT-4（介面程式 vs 引擎）
-- 2. 介面程式加工程式（Context、Prompt 結構、Context window、Tools/Agents/MCPs）
+- 2. 介面程式加工了什麼（Context、Prompt 結構、Context window、Tools/Agents/MCPs）
 - 3. RAG（檢索增強生成）
 - 4. IDE as a LLM-powered Vehicle（AI 編輯器、Copilot、AI IDEs/Extensions/Agents）
 
@@ -37,7 +37,7 @@
 - 5. Next Edit Suggestions（根據上下文持續給出建議）
 
 ## C2: IDE 裡的 Chat - 互動式對話
-- 1. 三種 Chat 模式：Ask、Edit、Agent
+- 1. 三種 Chat 模式：Ask、Edit、Agent (還可以自定義)
 - 2. 靈活自主控制的 Chat（Context、Models、Multi-modals、Tools、Slash Commands）
 
 ## C3: 新專案開發流程

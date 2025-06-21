@@ -77,3 +77,5 @@ Resources:
 * [GitHub Copilot 官方文檔](https://docs.github.com/en/copilot)
 * [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) MS 提供的 GitHub Copilot 教學資源
 * [使用 GitHub Copilot 加速應用程式開發](https://learn.microsoft.com/zh-tw/plans/e28efnd5e5m1rj?ocid=Build25_plan_azuremktg_developer#) 也是 MS 提供的
+* [GitHub Copilot 教學專案 - 透過 8 個實作場景，掌握 AI 輔助開發的完整技能](https://yulin0629.github.io/github-copilot-tutorial/)
+    * [Github](https://github.com/yulin0629/github-copilot-tutorial)

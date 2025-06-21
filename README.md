@@ -1,8 +1,8 @@
 # AI 輔助軟體開發
 
 * 課前調查:
-  - [最習慣用哪種 IDE?](https://app.sli.do/event/gSBDUPTcSFmjjwpNsWEJfN)
-  - [對這堂課最期望能知道什麼?](https://app.sli.do/event/2vi8reg8mayKLt5G93pKGK)
+  - [最習慣用哪種 IDE?](https://app.sli.do/event/gSBDUPTcSFmjjwpNsWEJfN)  ==> [結果統計](https://wall.sli.do/event/gSBDUPTcSFmjjwpNsWEJfN?section=427eca0c-807a-4920-9a8b-049390d71538)
+  - [對這堂課最期望能知道什麼?](https://app.sli.do/event/2vi8reg8mayKLt5G93pKGK)  ==> [結果統計](https://wall.sli.do/event/2vi8reg8mayKLt5G93pKGK?section=51d6e4b6-54cb-47b9-8cb0-458c992eef6c)
 
 
 # TOC： 	
@@ -14,7 +14,8 @@
 4. [舊專案維護流程- 全案理解/語意檢索，修改/測試，除錯/重構，文件更新](C4.md)
 5. [幫手養成- 自訂指示，提示樣板，私人調教](C5.md)
 6. [Copilot 強化術- Extensions、Tools 與 MCPs 全攻略](C6.md)
-7. [專案管理- 團隊協作，CM/PR/CodeReview，專案知識庫](C7.md)
+<br/>~~7. [專案管理- 團隊協作，CM/PR/CodeReview，專案知識庫](C7.md)~~<br/>
+7. ["對這堂課最期望能知道什麼?" 的回應](C7.md)
 8. [Q&A- 現況與發展趨勢](C8.md)
 
 
@@ -62,6 +63,12 @@
 - 2. Tools 工具（內部與外部）
 - 3. MCP (Model Context Protocol) - 開放標準，讓 Copilot 與外部工具和服務整合
 - 4. MCP 擴展 Copilot 能力（如何設置）
+
+## C7: "對這堂課最期望能知道什麼?" 的回應
+- 1. 能幫我寫測試計劃、測試案例、自動測試、再生出測試報告嗎?
+  - Ex7-1: 生成系統測試計劃
+  - Ex7-2: 生成整合測試計劃
+  - Ex7-3: 生成 PRD 可測試性檢查報告
 
 References:
 

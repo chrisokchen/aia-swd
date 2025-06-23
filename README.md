@@ -24,47 +24,47 @@
 
 # GenAI/AI Coding 與軟體開發 大綱
 
-## C0: GenAI - 暖身與 Alignment
+## [C0: GenAI - 暖身與 Alignment](C0.md)
 - 1. ChatGPT vs GPT-4（介面程式 vs 引擎）
 - 2. 介面程式加工了什麼（Context、Prompt 結構、Context window、Tools/Agents/MCPs）
 - 3. RAG（檢索增強生成）
 - 4. IDE as a LLM-powered Vehicle（AI 編輯器、Copilot、AI IDEs/Extensions/Agents）
 
-## C1: 編寫過程 - 即時補全與建議
+## [C1: 編寫過程 - 即時補全與建議](C1.md)
 - 1. 自動完成建議（Ghost text、替代選項、建議面板）
 - 2. 註解驅動的編碼（用註解引導 Copilot 產生程式碼）
 - 3. 選取程式碼區塊的操作（Explain、Fix、Review、Docs、Tests）
 - 4. Editor Inline Chat（即時對話、建議、分析）
 - 5. Next Edit Suggestions（根據上下文持續給出建議）
 
-## C2: IDE 裡的 Chat - 互動式對話
+## [C2: IDE 裡的 Chat - 互動式對話](C2.md)
 - 1. 三種 Chat 模式：Ask、Edit、Agent (還可以自定義)
 - 2. 靈活自主控制的 Chat（Context、Models、Multi-modals、Tools、Slash Commands）
 
-## C3: 新專案開發流程
+## [C3: 新專案開發流程](C3.md)
 - 0. [Vibe Coding 與 Claude Task Master](Vibe_TaskMaster.md)
 - 1. 精簡版的 [AI Dev Tasks](https://github.com/snarktank/ai-dev-tasks)
 - 2. 較完整的 SDLC [AI-SDLC CLI](https://github.com/joinvai/ai-sdlc/tree/main) - md 驅動的軟體開發生命週期
 
-## C4: 舊專案維護流程
+## [C4: 舊專案維護流程](C4.md)
 - 1. 全案理解工具（語意檢索、專案結構、功能、邏輯）
 - 2. 異動影響分析（分析需修改的模組、功能、邏輯）
 - 3. 正規的專案維護做法
 
-## C5: 幫手養成- 自訂指示、提示樣板與個人化調整
+## [C5: 幫手養成- 自訂指示、提示樣板與個人化調整](C5.md)
 - 1. 自訂指示（Custom Instructions）
 - 2. 提示樣板（Prompt Templates）
 - 3. 指示/提示/規則 參考來源
 - 4. 實用建議
 - 5. Custom chat modes
 
-## C6: Copilot 強化術- Extensions、Tools 與 MCPs 全攻略
+## [C6: Copilot 強化術- Extensions、Tools 與 MCPs 全攻略](C6.md)
 - 1. Extensions 插件（Ask mode 的 @extensions）
 - 2. Tools 工具（內部與外部）
 - 3. MCP (Model Context Protocol) - 開放標準，讓 Copilot 與外部工具和服務整合
 - 4. MCP 擴展 Copilot 能力（如何設置）
 
-## C7: "對這堂課最期望能知道什麼?" 的回應
+## [C7: "對這堂課最期望能知道什麼?" 的回應](C7.md)
 - 1. 能幫我寫測試計劃、測試案例、自動測試、再生出測試報告嗎?
   - Ex7-1: 生成系統測試計劃
   - Ex7-2: 生成整合測試計劃
@@ -86,3 +86,5 @@ Resources:
 * [使用 GitHub Copilot 加速應用程式開發](https://learn.microsoft.com/zh-tw/plans/e28efnd5e5m1rj?ocid=Build25_plan_azuremktg_developer#) 也是 MS 提供的
 * [GitHub Copilot 教學專案 - 透過 8 個實作場景，掌握 AI 輔助開發的完整技能](https://yulin0629.github.io/github-copilot-tutorial/)
     * [Github](https://github.com/yulin0629/github-copilot-tutorial)
+* [Demo: Figma design to webpage with GitHub Copilot Agent and Figma MCP server](https://www.youtube.com/watch?v=1eZMmQ8_XkA)
+* [TCSE 2025 - 第21屆台灣軟體工程研討會](https://tcse2025.seat.org.tw/)  以 「AI強化軟體工程(AI-powered Software Engineering)」為主題

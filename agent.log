@@ -37,3 +37,6 @@
 2025-06-21  已執行 git add .、git commit、git push
 - 影響檔案：QA.md 及相關測試文件、目錄調整
 - 摘要：更新 QA.md 測試知識與工具說明，並調整部分測試文件目錄結構。
+2025-06-23  已執行 git add .、git commit、git push
+- 影響檔案：README.md
+- 摘要：更新 README.md 參考資源與外部連結。

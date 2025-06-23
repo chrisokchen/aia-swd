@@ -77,6 +77,7 @@ References:
 * [GitHub: yasenstar / PlantUML_in_Action](https://github.com/yasenstar/PlantUML_in_Action)
 * [Udemy: 7 Days of GitHub Copilot: The GitHub Copilot Masterclass](https://www.udemy.com/course/github-copilot-for-professionals)
 * [Udemy: GenAI And Other Software Testing Tools Every QA Should Know](https://www.udemy.com/course/testingtools/)
+* [Udemy: Complete Project Manager's Practical Guide to Using AI 8 PDU](https://www.udemy.com/course/project-management-ai/)
 
 
 Resources:

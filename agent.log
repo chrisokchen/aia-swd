@@ -40,3 +40,6 @@
 2025-06-23  已執行 git add .、git commit、git push
 - 影響檔案：README.md
 - 摘要：更新 README.md 參考資源與外部連結。
+2025-06-23  已執行 git add .、git commit、git push
+- 影響檔案：C5.md 及相關說明文件
+- 摘要：補充如何在 copilot-instructions.md 停用指令而不被執行的說明。

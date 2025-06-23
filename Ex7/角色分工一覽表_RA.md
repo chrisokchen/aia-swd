@@ -1,9 +1,9 @@
 
 # RA 角色分工一覽表
 
-* BA: 業務分析師 (Business Analyst)
-* SA: 系統分析師 (System Analyst)
-* SD: 系統設計師 (System Designer)
+* BA: 業務分析 (Business Analyst)
+* SA: 系統分析 (System Analyst)
+* SD: 系統設計 (System Designer)
 
 ---
 

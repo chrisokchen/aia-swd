@@ -81,6 +81,8 @@
 - 1. AI Coding 常見問題與克服方法
 - 2. 歸納 AI Coding 要能有效的幾個關鍵要素
 - 3. 我們的 AI aided SW Dev 之道
+  - 我們的優勢
+  - 預計的幾個方向
 
 References:
 

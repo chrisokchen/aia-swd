@@ -77,6 +77,11 @@
   - [諮詢服務Q&A系統](https://github.com/chrisokchen/qna) 開發規格 (DB/API/頁面規格) 實例
 - 4. 我是企畫, 能從 Figma 就生出程式嗎?
 
+## [C8: Q&A- 現況與發展趨勢](C8.md)
+- 1. AI Coding 常見問題與克服方法
+- 2. 歸納 AI Coding 要能有效的幾個關鍵要素
+- 3. 我們的 AI aided SW Dev 之道
+
 References:
 
 * [GitHub: snarktank / ai-dev-tasks ](https://github.com/snarktank/ai-dev-tasks)

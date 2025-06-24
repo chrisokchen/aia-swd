@@ -85,3 +85,4 @@
 2025-06-24  C2.md 內容調整：語音輸入說明連結 voiceRec.md，優化多模態說明，已 commit & push。
 2025-06-24  SendMailLog.sql 新增（MSSQL 信件暫存表 schema），mailFunction.asp 改為寫入 SendMailLog table，不直接發信。
 2025-06-24  SendMailLog.sql schema 調整：status 欄位改為 int 並明確標註狀態值，優化欄位說明，已 commit & push。
+2025-06-24  C8.md 內容補充與優化，團隊優勢、PAL 流程資產庫、GAI-enable 實驗方向等，已 commit & push。

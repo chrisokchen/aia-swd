@@ -86,3 +86,18 @@
 2025-06-24  SendMailLog.sql 新增（MSSQL 信件暫存表 schema），mailFunction.asp 改為寫入 SendMailLog table，不直接發信。
 2025-06-24  SendMailLog.sql schema 調整：status 欄位改為 int 並明確標註狀態值，優化欄位說明，已 commit & push。
 2025-06-24  C8.md 內容補充與優化，團隊優勢、PAL 流程資產庫、GAI-enable 實驗方向等，已 commit & push。
+2025-11-17  新增 CLAUDE.md 檔案
+- 檔案：CLAUDE.md
+- 動作：建立全新的 AI 助手協作指南文件
+- 摘要：
+  * 完整說明專案結構、目錄組織與檔案用途
+  * 定義 AI 助手核心慣例（繁體中文、agent.log 記錄、程式碼規範）
+  * 詳細描述開發流程（新專案開發、舊專案維護、Vibe Coding）
+  * 說明 Copilot 配置與工具使用（VS Code 設定、Chat 模式、Prompt 模板）
+  * 整理專案管理與品質保證策略
+  * 提供教學內容架構總覽（C0-C8）
+  * 列出多模型對比實驗說明
+  * 定義 AI 助手工作原則與常見任務指引
+  * 提供注意事項、參考資源與常用指令速查
+- 目的：協助 AI 助手（Claude、Copilot 等）更好地理解專案並提升協作效率
+- 狀態：準備提交並推送至遠端倉庫
